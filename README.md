@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 <h1 align="center">Hi 👋, I'm Soubhagya Maity</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
